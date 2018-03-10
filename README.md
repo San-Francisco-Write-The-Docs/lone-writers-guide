@@ -1,7 +1,7 @@
 # lone-writers-guide
 
 Contents
-* [About this guide](#About-This-Guide)
+* [About this guide](##About-This-Guide)
 * How to participate
 * How to edit in the browser
 * How to clone this repo and work offline, in your favorite text editor
