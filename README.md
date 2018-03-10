@@ -1,7 +1,7 @@
 # lone-writers-guide
 
 Contents
-* [About this guide](#About-This-Guide)
+* About this guide
 * How to participate
 * How to edit in the browser
 * How to fork this repo and work offline, in your favorite text editor
@@ -37,10 +37,10 @@ https://help.github.com/articles/fork-a-repo/
 * When you finish working on a page, scroll to the bottom of the page and push the Commit button.
  
 3.) Submit your changes through a pull request
-..a. Go to the original repo (the repo you forked from--not your copy) and push the button that says New Pull Request. (It's only on the main page.)
-..b. Click the blue link that says Compare Across Forks.
-..c. Use the third pulldown window from the left to choose the name of *your* fork repo You should see the comment you saved when you made the commit. And if you scroll down, you should be able to see a diff of the changes to the document.
-..d. Remember to push the green button that says "Create Pull Request."
+a. Go to the original repo (the repo you forked from--not your copy) and push the button that says New Pull Request. (It's only on the main page.)
+b. Click the blue link that says Compare Across Forks.
+c. Use the third pulldown window from the left to choose the name of *your* fork repo You should see the comment you saved when you made the commit. And if you scroll down, you should be able to see a diff of the changes to the document.
+d. Remember to push the green button that says "Create Pull Request."
 
 You're done.
 
