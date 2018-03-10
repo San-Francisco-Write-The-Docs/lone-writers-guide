@@ -33,4 +33,9 @@ If you need more help, use the GitHub docs:
 https://help.github.com/articles/fork-a-repo/
 
 2.) Edit the docs
-Find a page you want to change and push the edit button in the upper right
+
+Find a page you want to change and push the edit button in the upper right.
+![The edit button][editGit.jpg]
+
+When you finish, scroll to the bottom of the page and push the Commit button.
+
