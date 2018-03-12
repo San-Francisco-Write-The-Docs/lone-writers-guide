@@ -1,4 +1,4 @@
-<!--- https://docs.google.com/document/d/1UdXs02V4NJb1-ULNNgzkHoh25T3JDtBlat1JgcsoVYU/edit# --->
+<!-- https://docs.google.com/document/d/1UdXs02V4NJb1-ULNNgzkHoh25T3JDtBlat1JgcsoVYU/edit# -->
 
 Audit existing content
 How to swim in the deep water - A lone writer’s guide to survival
