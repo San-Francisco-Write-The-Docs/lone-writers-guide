@@ -1,20 +1,27 @@
 <!-- https://docs.google.com/document/d/1UdXs02V4NJb1-ULNNgzkHoh25T3JDtBlat1JgcsoVYU/edit# -->
 
+**********************
 Audit existing content
+**********************
+
 How to swim in the deep water - A lone writer’s guide to survival
+=================================================================
 
 Starting notes:
-If you have inherited docs from a previous writer, it’s a good idea to audit the existing content to get feel for what you have inherited, how it is organized, identify if there are gaps.  
-Should this be a high level audit?
-What are customer pain points with the docs?  Has the company gotten any feedback from customers?
-How and when to communicate the results of the audit to your manager?  How to present a plan to your manager for resolving the pain points and gaps?
+---------------
+
+* If you have inherited docs from a previous writer, it’s a good idea to audit the existing content to get feel for what you have inherited, how it is organized, identify if there are gaps.  
+* Should this be a high level audit?
+* What are customer pain points with the docs?  Has the company gotten any feedback from customers?
+* How and when to communicate the results of the audit to your manager?  How to present a plan to your manager for resolving the pain points and gaps?
 
 Hack-a-thon content:
+--------------------
 
 When you have inherited docs from a previous writer who has left the company, it is important to know what you have inherited.  
-How are the docs organized? 
-Are there gaps in the content?  
-Have customers complained about missing information? 
+* How are the docs organized? 
+* Are there gaps in the content?  
+* Have customers complained about missing information? 
 
 Conducting a high-level audit will give you the answers to these questions.
 
