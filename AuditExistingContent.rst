@@ -19,6 +19,7 @@ Hack-a-thon content:
 --------------------
 
 When you have inherited docs from a previous writer who has left the company, it is important to know what you have inherited. Consider: 
+
 * How are the docs organized? 
 * Are there gaps in the content?  
 * Have customers complained about missing information? 
