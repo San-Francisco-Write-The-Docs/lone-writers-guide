@@ -33,9 +33,9 @@ If you need more help, use the GitHub docs:
 https://help.github.com/articles/fork-a-repo/
 
 2. Edit the docs
-* Navigate to your GitHub *profile*; then go to your *repos*; then open the repo that you just forked (copied). 
-* Find a page you want to change, and push the edit button in the upper right.
-* When you finish working on a page, scroll to the bottom of the page and push the Commit button.
+   * Navigate to your GitHub *profile*; then go to your *repos*; then open the repo that you just forked (copied). 
+   * Find a page you want to change, and push the edit button in the upper right.
+   * When you finish working on a page, scroll to the bottom of the page and push the Commit button.
  
 3. Submit your changes through a pull request
 
