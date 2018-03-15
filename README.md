@@ -19,7 +19,7 @@ Everyone has something to share, so join us for this project if you are (or have
 You can contribute in several ways:  
 * Edit these pages in your browser
 * Fork or clone the repo and work offline
-* Open an issue in GitHub. This allows you to report a bug or make a suggestion without having to make the changes yourself. The [GitHub documentation](https://help.github.com/articles/creating-an-issue/) explains how. 
+* Open an issue in GitHub. This allows you to report a bug or make a suggestion without having to make the changes yourself. The [GitHub documentation](https://help.github.com/articles/creating-an-issue/) explains how to open an issue.
 
 ## Edit in the Browser
 Before you edit this repo on your browser:
@@ -51,9 +51,13 @@ You're done.
 
 After submitting changes, remember to watch the pull request. Check back in a day or two to see whether the owner of the repo needs you to answer questions or make changes before your suggestions are merged into the project.
 
-## Fork the Repo
+## Fork and Clone the Repo
 
-Forking means you make your own copy of the repo so you can make all the changes you want without disturbing the main project. After you edit or create pages, you can submit the changes by completing a pull request. 
+This is the pattern you should learn if you want to work on open-source documentation.
 
-To Fork the repo follow with this tutorial: 
+Forking means you make your own copy of the repo so you can make all the changes you want without disturbing the main project. Cloning the repo means that you download a copy to your own computer, so you can work on it offline. 
+
+After you edit or create pages, you can submit the changes by completing a pull request. 
+
+To Fork and Clone the repo follow with this tutorial: 
 https://github.com/cwcromwell/docs/blob/master/GitTutorial.md
