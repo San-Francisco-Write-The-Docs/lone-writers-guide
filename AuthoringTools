@@ -1,4 +1,4 @@
-<!--  https://docs.google.com/document/d/1ykWZLM_vh6bA2hCNCGHrOk2bTpx0q4R22fSTwqHtdL0/edit# -->
+﻿<!--  https://docs.google.com/document/d/1ykWZLM_vh6bA2hCNCGHrOk2bTpx0q4R22fSTwqHtdL0/edit# -->
 
 ***************************
 Authoring tools - selecting
@@ -16,5 +16,5 @@ Change an authoring tools. Do you keep the existing tool (if there is one) or ch
 Cost of tools. 
 Does it need to be an open source tool so that users contribute to the docs?
 
-Hack-a-thon content:
+Hack-a-thon content:<!-- !this is a comment -->
 ---------------------
