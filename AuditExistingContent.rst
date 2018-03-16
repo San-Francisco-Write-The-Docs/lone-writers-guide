@@ -17,6 +17,8 @@ Starting notes:
 
 THIS IS USER-ENTERED TEXT, FOR GRINS.
 
+THIS IS JUNK TEXT.
+
 Hack-a-thon content:
 --------------------
 
