@@ -43,8 +43,8 @@ Below is an example content review process. You may need to modify these steps, 
 This procedure begins after the initial draft of a doc update.
 
 # Evaluate the doc for consistency and accuracy according to style guidelines and topic patterns.
-# Think about use cases and learning objectives for the content that you're documenting. Are these things defined well and explained properly? Can improvements be made? Reach out to PMs to clarify and confirm objectives for the doc.
-# Review technical information. Do you have any questions? Will users have any questions? Does the information address the use case(s)? Is there too much information? After you attempt to answer these questions, reach out to the SME(s) to schedule a technical review; address any remaining questions with the SME(s) at this time.
+# Think about use cases and learning objectives for the content that you're documenting. Are these things defined well and explained properly? Can improvements be made? If you have any remaining questions, reach out to PMs to clarify and confirm objectives for the doc; SMEs can also provide valuable input to clarify user goals and learning objectives for the content that you're documenting here.
+# Review technical information. Do you have any questions? Will users have any questions? Does the information address the use case(s)? Is there too much information? After you attempt to answer these questions, reach out to the SMEs to schedule a technical review; address any remaining questions with the SMEs at this time.
 # Confirm that:
   * style guidelines and topic patterns are adhered to
   * user goals are clear and tasks are explained well
