@@ -53,5 +53,7 @@ This procedure begins after the initial draft of a doc update.
 Tips for reviewing content with SMEs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Set a reasonable timeline for when the technical review is to be completed. Setting an agreed upon timeline helps keep things moving. 
+
 Tips for reviewing content with PMs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
