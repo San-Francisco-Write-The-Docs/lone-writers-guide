@@ -35,7 +35,7 @@ https://help.github.com/articles/fork-a-repo/
 2. Edit the docs
    * Navigate to your GitHub *profile*; then go to your *repos*; then open the repo that you just forked (copied). 
    * Find a page you want to change, and push the edit button in the upper right.
-   * Here's a handy guide to using reStructuredText: http://www.sphinx-doc.org/en/master/rest.html
+   * Here's a handy guide to using reStructuredText: http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
       (But some documents are already formatted, so you may be able to figure out how to do headings, bullets, etc.)
    * When you finish working on a page, scroll to the bottom of the page and push the Commit button.
  
