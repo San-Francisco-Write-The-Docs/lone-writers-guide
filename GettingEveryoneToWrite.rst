@@ -28,3 +28,5 @@ As the lone writer, it is in your best interests (and key to your survival) to g
 * Ask QA. Presumably they are building test cases to test the feature. 
 
 * Ask Marketing. Their perspective might be very different than development, SMEs, and QA. But is it good to know if their perspective of what is being developed matches with what the SMEs think, and what the development team has built.
+
+In a maneuver to help others with writing documents, it's important to reassure them that contributing to the writing process through explaning (perhaps generally) key or minor features to the project is essential for everyone's understanding. It may not be apparent to the others at first, but something as seemingly insignificant as a passing comment about this-or-that feature from one of the developers, a minor bug that QA is having issues with, or even a project manager's foggy idea of changing an existing feature; all of these can be expressed, logged, and re-read through documentation. 
