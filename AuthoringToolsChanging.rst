@@ -9,7 +9,7 @@ How to swim in the deep water - A lone writer’s guide to survival
 =================================================================
 
 
-Starting notes: 
+Starting notes:
 ---------------
 
 * Change an authoring tools. Do you keep the existing tool (if there is one) or change the tool? Will changing the tool impact developers contributing to the docs? Suppose you use something like Markdown and the developers use that to help create documentation.  But then you change the tool to something that developers don't know and so they contribute less to the documentation.  How to handle this?
@@ -17,3 +17,6 @@ Starting notes:
 
 Hack-a-thon content:
 ---------------------
+
+Hack-a-thon content:
+Test file 3/15/18

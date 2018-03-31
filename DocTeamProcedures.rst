@@ -17,6 +17,7 @@ Starting notes:
 Hack-a-thon content:
 --------------------
 
+
 If you’re the only writer at your company, there isn’t anyone who is going to perform the fundamental aspects of your job while you’re away for only a week. There isn’t going to be a person generating new content that follows the traditional process that you do. So unless someone is going to need to write, edit, and publish a complete piece of documentation in your absence, you probably don’t need to start with documenting the style guide you have floating around in your head.
 
 While you’re away, developers will continue to produce new features and new design documents that will need to be incorporated into the overall documentation that you are producing, so a good place to start is with identifying the common sources of content and input you normally get for your documentation. If the development team that you work with is used to you catching all of the documentation issues in your morning meeting, someone is going to have to track those while you’re gone. What defines an issue or piece of content that needs to be documented? If you write down the criteria, you can distribute it to the development teams so that they can act as your proxy while you’re away. If you use an issue tracking tool like Jira, you can document the process you use for creating new tickets/issues, so that it can be referenced in your absence, and you don’t have a pile of emails that you need to input into Jira when you return.
