@@ -22,7 +22,7 @@ You can contribute in several ways:
 * Open an issue in GitHub. This allows you to report a bug or make a suggestion without having to make the changes yourself. The [GitHub documentation](https://help.github.com/articles/creating-an-issue/) explains how to open an issue.
 
 ## Edit in the Browser
-Before you edit this repo on your browser:
+Before you edit this repo in your browser:
 * If you already have a GitHub account, log in. Otherwise, sign up at [https://github.com/join](https://github.com/join)
 * Review the docs to get an idea of what has been done so far
 
@@ -35,7 +35,7 @@ https://help.github.com/articles/fork-a-repo/
 2. Edit the docs
    * Navigate to your GitHub *profile*; then go to your *repos*; then open the repo that you just forked (copied). 
    * Find a page you want to change, and push the edit button in the upper right.
-   * Here's a handy guide to using reStructuredText: http://www.sphinx-doc.org/en/master/rest.html
+   * [Here's a handy guide to using reStructuredText](http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)
       (But some documents are already formatted, so you may be able to figure out how to do headings, bullets, etc.)
    * When you finish working on a page, scroll to the bottom of the page and push the Commit button.
  
