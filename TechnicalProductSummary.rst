@@ -21,8 +21,8 @@ Hack-a-thon content:
 --------------------
 When you're working on creating a product summary for a technical product, your first step is to brainstorm your plan. 
 
-Brainstorm
 You should prepare an outline that answers the the 5 W's. 
+
 * Who is your audience? Who will you interview to learn about the product? Who will be reviewing the content? 
 * What should the summary cover? 
 * When is the writing deadline? What does the roadmap timeline look like in order to help you meet the writing deadline? 
