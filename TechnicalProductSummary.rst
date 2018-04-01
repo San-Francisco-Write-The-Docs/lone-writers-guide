@@ -22,7 +22,7 @@ Hack-a-thon content:
 When you're working on creating a product summary for a technical product, your first step is to brainstorm your plan. 
 
 Brainstorm
-You should prepare an outline that answer's the the 5 W's. 
+You should prepare an outline that answers the the 5 W's. 
 * Who is your audience? Who will you interview to learn about the product? Who will be reviewing the content? 
 * What should the summary cover? 
 * When is the writing deadline? What does the roadmap timeline look like in order to help you meet the writing deadline? 
@@ -33,7 +33,7 @@ By asking these question, you create the scope for your writing project.
 
 Next, outline what information should be captured in your summary. If there is exisiting documentation, such as design docs, guides, etc. read or glimpse through those documents to get a sense of the product. You can also use Google search to gain background and introductory information on the subject area. List key words and key concepts the reader might need to know before they start reading the summary. 
 
-Then, think about the questions to ask your subject matter expert (SME). Plan an outline to strategize your structure of your summary, and phrase your interview questions to help you fill content into the structure of your doc. 
+Then, think about the questions to ask your subject matter expert (SME). Plan an outline to stragetize the structure of your summary, and phrase your interview questions to help you fill content into the structure of your doc. 
 
 Now that you have done your research and have interviewed your subject matter expert, you should have enough information to get started with writing the summary. Start by introducing the topic. Think about the purpose of the product and the value it brings to its users. Evangelize the product. If the technical product summary is intended for a technical audience, describe the basic concepts or prerequisites that the reader might need to know before they jump into writing. Use your outline to structure your summary. Feel free to mention similar products, the competitors, or what sets this product apart from other products. Use visuals if it helps the reader understand the product. 
 
