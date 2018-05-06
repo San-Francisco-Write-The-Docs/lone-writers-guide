@@ -4,8 +4,9 @@
 Create a Style Guide
 ********************
 
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
+This page is about creating a style guide. It covers things to think about when creating a style guide and sources for your style guide. It is not, however, a style guide. 
+
+
 
 Starting notes:
 ---------------
