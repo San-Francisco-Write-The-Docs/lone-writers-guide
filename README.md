@@ -49,7 +49,7 @@ We’re still working out how we want to organize what we’ve got so far, so th
 You can contribute in several ways:
 
 * You can [edit these pages in your browser](#edit-in-your-browser-the-easy-way)
-* If you feel like a challenge, you can also Fork or clone the repo and work offline, but it's not necesary. There are some helpful instructions below, if you want to try that.
+* If you feel like a challenge, you can also Fork or clone the repo and work offline, but it's not necessary. There are some helpful instructions below, if you want to try that.
 * [Open an issue](https://github.com/San-Francisco-Write-The-Docs/lone-writers-guide/issues/new) here in GitHub. This allows you to report a bug or make a suggestion without having to make the changes yourself. See the GitHub docs: [Creating an Issue](https://help.github.com/articles/creating-an-issue/).
 
 ## Before Contributing
