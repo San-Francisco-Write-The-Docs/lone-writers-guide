@@ -32,6 +32,7 @@ Next go to your manager and the Key Stakeholders.  Interview them and ask them a
 
 If you can interview 1-2 key customers, ask them the same questions.
 
+
 All of these interviews will give you a better picture of the documentation, and metrics to explain the status of the documentation to your manager. 
 
 Summarize the information that you have gathered and try to prioritize the list of things to improve.  If you can, try to estimate how long you think it will take to make the improvements.  Then multiply that estimate by 3.  Yes, 3.  It always, always takes longer than you think it will.  If it is a real mess, multiply by 4. 
