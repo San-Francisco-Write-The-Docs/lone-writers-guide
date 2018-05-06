@@ -15,3 +15,9 @@ Starting notes:
 
 Hack-a-thon content:
 --------------------
+
+* Managing expectations
+* Time estimates
+* Transparency and communication
+** Scope - what is the doc writers responsibility, and what is not
+* Dependencies - make sure your manager understands what information you need and from who - and the impact on your work
