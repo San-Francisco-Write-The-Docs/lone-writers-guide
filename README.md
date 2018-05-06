@@ -17,11 +17,16 @@ Everyone has something to share, so join us for this project if you are (or have
 
 ## How to participate
 You can contribute in several ways:  
-* Edit these pages in your browser
-* Fork or clone the repo and work offline
+* You can edit these pages in your browser (click the pencil button at the upper right to start)
+* If you feel like a challenge, you can also Fork or clone the repo and work offline, but it's not necesary. There are some helpful instructions below, if you want to try that. 
 * Open an issue in GitHub. This allows you to report a bug or make a suggestion without having to make the changes yourself. The [GitHub documentation](https://help.github.com/articles/creating-an-issue/) explains how to open an issue.
 
-## Edit in the Browser
+## Edit in the Browser the Easy Way
+
+use the edit button to start. It's the one at the upper right with a symbol that looks like a pencil. When finished, scroll down to click **Commit Changes**. Then Click **Create Pull Request**. 
+
+## Edit in the Browser the Slightly Harder Way, by Creating Your Own Pull Request
+
 Before you edit this repo in your browser:
 * If you already have a GitHub account, log in. Otherwise, sign up at [https://github.com/join](https://github.com/join)
 * Review the docs to get an idea of what has been done so far
