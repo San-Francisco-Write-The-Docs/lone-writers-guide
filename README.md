@@ -18,7 +18,7 @@ Everyone has something to share, so join us for this project if you are (or have
 ## How to participate
 You can contribute in several ways:  
 * You can edit these pages in your browser (click the pencil button at the upper right to start)
-* If you feel like a challenge, you can also Fork or clone the repo and work offline, but it's not necesary. There are some helpful instructions below, if you want to try that. 
+* If you feel like a challenge, you can also Fork or clone the repo and work offline, but it's not necessary. There are some helpful instructions below, if you want to try that. 
 * Open an issue in GitHub. This allows you to report a bug or make a suggestion without having to make the changes yourself. The [GitHub documentation](https://help.github.com/articles/creating-an-issue/) explains how to open an issue.
 
 ## Edit in the Browser the Easy Way
