@@ -66,7 +66,7 @@ Before you contribute, please:
 1. When finished, scroll down to click **Commit Changes**.
 1. Click **Create Pull Request**.
 
-## Edit in Your Browser the Slightly Harder Way: by Creating Your Own Pull Request
+## Edit in Your Browser the Slightly Harder Way -- by forking the repo
 
 1. Fork the Repo
    1. Click the _Fork_ button in the upper right hand corner.
@@ -90,7 +90,7 @@ After submitting changes, keep an eye on the pull request. Check back in a day o
 
 ## How To Edit in Your Favorite Text Editor
 
-This is the pattern you should learn if you want to work on open-source documentation.
+To edit in your text editor (as opposed to the browser) you need to fork and clone the repo. This is the pattern you should learn if you want to work on open-source documentation.
 
 _Forking_ means you make your own copy of the repo so you can make all the changes you want without disturbing the main project.
 
@@ -98,4 +98,4 @@ _Cloning_ the repo means that you download a copy to your own computer, so you c
 
 To Fork and Clone the repo follow [this tutorial](https://github.com/cwcromwell/docs/blob/master/GitTutorial.md).
 
-After you edit or create pages, you can submit the changes by completing a [Pull Request](https://help.github.com/articles/about-pull-requests/).
+After you edit or create pages, you can submit the changes by completing a [Pull Request](https://help.github.com/articles/about-pull-requests/), which is also explained in the tutorial. 
