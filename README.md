@@ -66,7 +66,7 @@ Before you contribute, please:
 1. When finished, scroll down to click **Commit Changes**.
 1. Click **Create Pull Request**.
 
-## Edit in Your Browser the Slightly Harder Way -- by forking the repo
+## Edit in Your Browser the Slightly Harder Way -- by Forking the Repo
 
 1. Fork the Repo
    1. Click the _Fork_ button in the upper right hand corner.
