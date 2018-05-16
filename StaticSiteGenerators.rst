@@ -21,7 +21,7 @@ Advantages of SSDs:
 -------------------
 
 * You can leverage developer tools like Github.
-* You author content for SSDs in markup languages, which are straightforward to read and learn, and easier to use than raw HTML. rST, Markdown, and AsciiDoc are examples of markup languages.
+* You author content for SSDs in markup languages, which are non-proprietary, straightforward to read and learn, and easier to use than raw HTML. rST, Markdown, and AsciiDoc are examples of markup languages.
 * It's relatively easy to migrate from one static site generator to another.
 * There are lots of free, open source SSD tools.
 * SSDs use a workflow that developers are familiar with.
@@ -41,6 +41,7 @@ Disadvantages:
 * SSDs have no content management system to manage things like:
   * Permissions - Access control isn’t built into most static site generators. If you don’t want your docs publicly accessible, access control is an additional expense on your time.
   * Versioning - Not all SSDs support deploying different versions of the same content at once. However, some SSDs can use version control to handle deploying different versions simultaneously.
+* SSDs don't provide an editing tool or many of the editing features of other documentation authoring tools.
 
 WHICH ONE SHOULD I USE?
 =======================
