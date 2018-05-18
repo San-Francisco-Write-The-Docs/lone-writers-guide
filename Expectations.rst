@@ -23,7 +23,9 @@ Early on, be sure to obtain (more than likely create) a list of all documentatio
 Next, identify your documentation by audience and the department.
 
 * Identify documentation:
+
   - By audience (external vs internal)
+
   - By department (Support, Implementations, Marketing, Developers, etc)
 
 * Documentation Examples:
