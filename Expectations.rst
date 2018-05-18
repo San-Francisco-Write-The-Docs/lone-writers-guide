@@ -49,9 +49,10 @@ Next, identify your documentation by audience and the department.
 * Determine who your SMEs and stakeholders are for your docs.
 
 Deadlines and timelines
-Work backwards from due dates. Most external documentation deadlines are tied to customer/client contracts (service-level agreements). For example, release notes are contractually required to be sent to clients one week before a release.
-Set deadlines for documentation draft material from SMEs, review sessions, and final reviews. Effective collaboration and communication, especially when SMEs are in different offices or remote, is essential for meeting deadlines.
+  Work backwards from due dates. Most external documentation deadlines are tied to customer/client contracts (service-level agreements).   For example, release notes are contractually required to be sent to clients one week before a release.
+
+  Set deadlines for documentation draft material from SMEs, review sessions, and final reviews. Effective collaboration and communication, especially when SMEs are in different offices or remote, is essential for meeting deadlines.
 
 Avoiding burnout and suckerville
-Learn to say NO! (with tact, of course ;) )
-Set realistic expectations for a lone writer workload.
+  Learn to say NO! (with tact, of course ;) ).
+  Set realistic expectations for a lone writer workload.
