@@ -21,3 +21,4 @@ Hack-a-thon content:
 * Transparency and communication
 ** Scope - what is the doc writers responsibility, and what is not
 * Dependencies - make sure your manager understands what information you need and from who - and the impact on your work
+* Proving your value
