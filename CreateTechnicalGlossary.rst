@@ -19,6 +19,7 @@ Hack-a-thon content:
 --------------------
 
 You’re in a new situation:
+
 * Start working on a glossary right away. As new person, your eyes and ears are new.
 * Look for glossaries that others have created.
 
