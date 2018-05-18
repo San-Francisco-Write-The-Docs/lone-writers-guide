@@ -30,21 +30,21 @@ Next, identify your documentation by audience and the department.
 
 * Documentation Examples:
 
-  -Release notes
+  - Release notes
 
-  -Changelogs
+  - Changelogs
 
-  -Product Documentation
+  - Product Documentation
   
-  -User Manuals
+  - User Manuals
   
-  -How-tos
+  - How-tos
   
-  -Quick-start Guides
+  - Quick-start Guides
   
-  -White papers
+  - White papers
   
-  -Slide decks
+  - Slide decks
 
 * Determine who your SMEs and stakeholders are for your docs.
 
