@@ -16,8 +16,27 @@ Starting notes:
 Hack-a-thon content:
 --------------------
 
-* Managing expectations
-* Time estimates
-* Transparency and communication
+Managing expectations (time, etc.)
+
+How to estimate time
+
+Transparency and communication
+
+What metrics are meaningful to your boss? How do you know if the docs are good?
+
+How do you convince people of the value that you bring (managers, developers)?
+What if people don't understand how your role should work; don't know how to interact with you?
+
+What if engineers don't understand what you need from them?
+
+What if the management structure is unclear (dotted line reporting structures)?
+
+What if the boss cannot give adequate feedback? How do you set goals?
+
+
+Extroverts! 
+
 ** Scope - what is the doc writers responsibility, and what is not
+
+
 * Dependencies - make sure your manager understands what information you need and from who - and the impact on your work
