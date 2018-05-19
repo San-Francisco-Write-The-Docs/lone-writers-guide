@@ -39,8 +39,10 @@ Disadvantages:
 --------------
 
 * SSDs have no content management system to manage things like:
+
   * Permissions - Access control isn’t built into most static site generators. If you don’t want your docs publicly accessible, access control is an additional expense on your time.
   * Versioning - Not all SSDs support deploying different versions of the same content at once. However, some SSDs can use version control to handle deploying different versions simultaneously.
+
 * SSDs don't provide an editing tool or many of the editing features of other documentation authoring tools.
 
 WHICH ONE SHOULD I USE?
