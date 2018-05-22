@@ -39,8 +39,6 @@ How you write the definitions in your glossary: write carefully so you know what
 sources/SMEs for your glossary: YOU and your fresh eyes
 practically anything you have contact with in your first days
 
-Wide distribution: Sales, Marketing, Support, ProfSvces, Dev, UX
+Wide distribution: Sales, Marketing, Support, Professional or Managed Services, Dev, UX
 
 You want your glossary to be the “gold file” - the canonical document of record.
-
-

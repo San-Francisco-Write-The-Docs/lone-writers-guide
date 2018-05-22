@@ -28,7 +28,7 @@ How do you figure this out? (stakeholders for the doc)
 
 * Find out who cares
 * Talk to people who’ve been there a long time
-* Spread around groups: PM, QA, Mktg, UX, Support, DevX, Professional Svces, etc. Cast your net widely. Listen for who’s got contact with customers; who’s got visibility into the direction of the product.
+* Spread around groups: PM, QA, Mktg, UX, Support, DevX, Professional Services, etc. Cast your net widely. Listen for who’s got contact with customers; who’s got visibility into the direction of the product.
 * Who writes the specs?
 * Outside the company: who’s making purchase decisions?
 
@@ -36,8 +36,8 @@ What questions do you ask?
 
 * What’s your biggest pain point that docs can help with?
 * What’s the most important goal the company has this year?
-* What do you mean when you say “docs”? (e.g., behind signin? Internal versus external? File format? Code snippets? KB?)
-* Boilerplate elements: Known issues, pain points, 
+* What do you mean when you say “docs”? (e.g., behind login? Internal versus external? File format? Code snippets? KB?)
+* Boilerplate elements: Known issues, pain points,
 
 _____________________________________
 What if you do not know where to start?
@@ -45,10 +45,6 @@ What if you do not know where to start?
 Doodle! :D  :
  Create nodes for everyone involved within the company (especially if the company is small)
  Draw connections (from prior experience) to see who often interacts with who
- Understand which nodes would be directly affected by your project. 
- Ask yourself how the changes would impact not only that node, but the tertiary effects that a choice would have. 
+ Understand which nodes would be directly affected by your project.
+ Ask yourself how the changes would impact not only that node, but the tertiary effects that a choice would have.
   Perhaps create a list of a writing's utility. How would these people be affected by your decision?
-
-
-
-
