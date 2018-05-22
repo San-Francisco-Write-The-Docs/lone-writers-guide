@@ -40,7 +40,7 @@ Extroverts!
 
 
 * Dependencies - make sure your manager understands what information you need and from who - and the impact on your work
-
+* Proving your value
 =================================================================
 How to establish value added and positive relationships from the start:
 =================================================================
@@ -68,7 +68,6 @@ How to establish value added and positive relationships from the start:
 * To show the value of your own best practices, tell them that these principles exist, and you're improving their content. Then they'll see how the content improved and recognize it.
 * Developers will see what you've done with their work, and then start to imitate you! They'll see what it means to apply standards.
 * Have genuine enthusiasm for the work of developers, and your own work as well
-
 
 =================================================================
 How to get quality doc reviews from a non-writing-savvy manager:

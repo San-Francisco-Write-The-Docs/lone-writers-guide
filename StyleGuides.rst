@@ -6,7 +6,7 @@ Style Guides
 
 This page is about creating a style guide. It covers things to think about when creating a style guide and sources for style guides. It is not, however, a style guide. It is not prescriptive. (It also does not discuss tools.)
 
-There is one basic premise: STYLE GUIDES ARE GOOD THINGS TO HAVE.
+There is one basic premise: A STYLE GUIDE IS A GOOD THING TO HAVE.
 
 
 Before you begin:
