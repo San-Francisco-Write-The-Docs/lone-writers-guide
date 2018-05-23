@@ -15,16 +15,16 @@ Starting notes:
 WHAT IS A STATIC SITE GENERATOR?
 ================================
 
-A static site generator (SSD) is a tool that can publish a collection of markup files into web pages. Most SSDs include programs that host the resulting web site, but because the output doesn't depend on a specific hosting server, you have many options for deploying the content. Popular static site generators include Sphinx, Jekyll, and Asciidoctor.
+A static site generator (SSG) is a tool that can convert a collection of markup files into web pages. Most SSGs include programs that host the resulting web site, but because the output doesn't depend on a specific hosting server, you have many options for deploying the content. Popular static site generators include Sphinx, Jekyll, and Asciidoctor.
 
-Advantages of SSDs:
+Advantages of SSGs:
 -------------------
 
 * You can leverage developer tools like Github.
-* You author content for SSDs in markup languages, which are non-proprietary, straightforward to read and learn, and easier to use than raw HTML. rST, Markdown, and AsciiDoc are examples of markup languages.
+* You author content for SSGs in markup languages, which are non-proprietary, straightforward to read and learn, and easier to use than raw HTML. rST, Markdown, and AsciiDoc are examples of markup languages.
 * It's relatively easy to migrate from one static site generator to another.
-* There are lots of free, open source SSD tools.
-* SSDs use a workflow that developers are familiar with.
+* There are lots of free, open source SSG tools.
+* SSGs use a workflow that developers are familiar with.
 
 One important advantage is that you can keep the documentation close to the code, sometimes even in the same repository as the code, and you can use the same workflow as for code. This encourages developers to keep documentation synchronized with the code.
 
@@ -38,12 +38,12 @@ You should use a static site generator if:
 Disadvantages:
 --------------
 
-* SSDs have no content management system to manage things like:
+* SSGs have no content management system to manage things like:
 
   * Permissions - Access control isn’t built into most static site generators. If you don’t want your docs publicly accessible, access control is an additional expense on your time.
-  * Versioning - Not all SSDs support deploying different versions of the same content at once. However, some SSDs can use version control to handle deploying different versions simultaneously.
+  * Versioning - Not all SSGs support deploying different versions of the same content at once. However, some SSGs can use version control to handle deploying different versions simultaneously.
 
-* SSDs don't provide an editing tool or many of the editing features of other documentation authoring tools.
+* SSGs don't provide an editing tool or many of the editing features of other documentation authoring tools.
 
 WHICH ONE SHOULD I USE?
 =======================
