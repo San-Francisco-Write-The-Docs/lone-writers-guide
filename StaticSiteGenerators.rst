@@ -41,7 +41,7 @@ Disadvantages:
 * SSGs have no content management system to manage things like:
 
   * Permissions - Access control isn’t built into most static site generators. If you don’t want your docs publicly accessible, access control is an additional expense on your time.
-  * Versioning - Not all SSGs support deploying different versions of the same content at once. However, some SSGs can use version control to handle deploying different versions simultaneously.
+  * Versioning - Not all SSGs support deploying different versions of the same content at once. However, with some SSGs, you can name source control branches in a specific way to handle deploying different versions simultaneously. For example, you might name a branch "3.5" for the docs for version 3.5 of your content. Then, you can create a branch named 3.6 for the next version, and the SSG publishes both versions based on the content of the respective branches. 
 
 * SSGs don't provide an editing tool or many of the editing features of other documentation authoring tools.
 
