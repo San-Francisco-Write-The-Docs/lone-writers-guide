@@ -22,3 +22,38 @@ Starting notes:
 
 Hack-a-thon content:
 --------------------
+
+
+Self-edit before you publish or send for review (perhaps this should be in docteamprocedures)
+=============================
+Check your work before you send your content to a reviewer or publish
+Editing improves the accuracy, organization, and readability of your content.
+Copyedit checklist:
+* spell check
+* punctuation -
+** check for double spaces
+** if you used the following correctly:
+*** .. extra period - check for and delete
+*** , comma
+*** ; semi-colon
+*** : colon
+*** () parenthesis
+*** ' apostrophe
+* subject/verb agreement
+* numerals
+* fonts and capitalization
+* headings - logical and in order
+* tables - are table formats consistent?
+* links - correct and working
+* headers and footers,  if you're using
+* notes & peripheral data - footnotes, endnotes, appendixes
+Technical writing resources
+===========================
+If you don't have fabulously smart writing colleagues as a resource, consider the following:
+* http://www.hemingwayapp.com/
+* Grammarly, https://www.grammarly.com/
+* Chicago Manual of Style, http://www.chicagomanualofstyle.org/home.html
+* Microsoft Manual of Style, Microsoft Corporation
+* Purdue University Writing Lab, https://owl.english.purdue.edu/owl/section/4/16/
+* I'd rather be writing, http://idratherbewriting.com/
+* (book) The Elements of Style (aka "Strunk & White"), by E. B. White and William Strunk Jr.
