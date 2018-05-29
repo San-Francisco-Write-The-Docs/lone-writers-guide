@@ -1,4 +1,3 @@
-<!-- https://docs.google.com/document/d/1BvKppnZtoNhgc3kw5n6aQ11qajJk-U3-AzaPbC0-zQM/edit#heading=h.m52rdgevmfw1 -->
 
 ************************************
 Identify your SMEs and Stake Holders
