@@ -1,4 +1,4 @@
-(https://docs.google.com/document/d/1sylTnt8rjWSFrmSHDlU3VjpVuJ46XBv5FWIbPTSJezE/edit#heading=h.c0smabrpthpe)
+
 
 **************************
 Authoring tools - changing

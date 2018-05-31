@@ -1,4 +1,3 @@
-<!-- https://docs.google.com/document/d/15YrQkuPrcrz41yK7VjIpQt4sSj_hzbwakR91EwPBSKE/edit# -->
 
 *******************
 Doc team procedures
@@ -17,13 +16,13 @@ But first things first -- put the process and procedures in place so that the co
 Process for contributors:
 ------------------------
 
-Whether you are in the office, working remotely, or out on vacation, you should have some procedures and guidelines in place for the people that create and review the source material for the documentation. This includes the format for the information, including text and graphics, as well as how to submit or post their contributions. If collaboration is part of the process, this process documentation should include how each contributor makes edits or comments to an existing document or file and how the workflow is managed (GitHub issues, Jira issues, or whatever you use). Consider what questions that the contributors are likely to ask.
+Whether you are in the office, working remotely, or out on vacation, you should have some procedures and guidelines in place for the people who create and review the source material for the documentation. This includes the format for the information, including text and graphics, as well as how to submit or post their contributions. If collaboration is part of the process, this process documentation should include how each contributor makes edits or comments to an existing document or file and how the workflow is managed (GitHub issues, Jira issues, or whatever you use). Consider what questions the contributors are likely to ask.
 
 * How are new documentation needs tracked, assigned, and managed? -- Make sure to address how issues/tickets are created and how to define the criteria for new or updated content.
 * How is content created? -- Make sure to provide clear procedures for how and where contributors can create new content so that it is ready for the review process.
 * How are documents reviewed? -- Make sure to look through your review process, and if any part of that process involves you or any of your tools, you might want to evaluate how those tasks can be done by someone else. Even if your review documents are a bunch of Word files sitting in a shared directory, you can still document where it is and what to do with it.
 
-The most important thing is to make sure that all of the likely contributors know where to find this information and that it easy for them to understand. As a lone writer, your time is precious and you don't want to spend large amounts of it explaining these procedures and guidelines over and over again.
+The most important thing is to make sure that all of the likely contributors know where to find this information and that it's easy for them to understand. As a lone writer, your time is precious and you don't want to spend large amounts of it explaining these procedures and guidelines over and over again.
 
 As your contributors use this guide to follow the outlined processes, you can figure out what works and what doesn't. Tweak and update this information as needed. When a potential contributor comes onboard, what they need to know is readily available and you won't be running yet another tutorial about contributing information or reviewing content.
 
