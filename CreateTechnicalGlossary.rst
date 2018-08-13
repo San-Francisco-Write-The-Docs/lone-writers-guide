@@ -19,7 +19,8 @@ Hack-a-thon content:
 --------------------
 
 You’re in a new situation:
-* Start working on a glossary right away. As new person, your eyes and ears are new.
+
+* Start working on a glossary right away. You're a new person with new eyes and ears: take advantage of this while it lasts.
 * Look for glossaries that others have created.
 
 Terminology: what is industry standard that does not belong in our glossary? Or other constraints (3rd-party product’s terminology)
@@ -34,10 +35,10 @@ Tease out internal versus external names
 
 Related topic: naming convention for APIs
 
-How you write the definitions in your glossary: write carefully so you know what knowledge the assume the audience has.
+How you write the definitions in your glossary: write carefully so you know what knowledge to assume the audience has.
 
-sources/SMEs for your glossary: YOU and your fresh eyes
-practically anything you have contact with in your first days
+sources/SMEs for your glossary: YOU and your fresh eyes as you respond to
+practically anything you have contact with in your first days.
 
 Wide distribution: Sales, Marketing, Support, ProfSvces, Dev, UX
 
