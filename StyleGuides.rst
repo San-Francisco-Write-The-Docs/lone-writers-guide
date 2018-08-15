@@ -6,7 +6,7 @@ Style Guides
 
 This page is about creating a style guide. It covers things to think about when creating a style guide and sources for style guides. It is not, however, a style guide. It is not prescriptive. (It also does not discuss tools.)
 
-There is one basic premise: STYLE GUIDES ARE GOOD THINGS TO HAVE.
+There is one basic premise: A STYLE GUIDE IS A GOOD THING TO HAVE.
 
 
 Before you begin:
@@ -20,7 +20,7 @@ Before you start writing that style guide, keep these ideas in mind:
   * Your company, if it's big, might have other technical documentation teams that already have one. You might even end up being the "hero" that finds a few of them and starts a global style guide project. (That happened to me once.)
   * Your company might have a corporate communications guide, a marketing style guide, or other internal guides that you can build upon.
   * Someone else at your company might have started a style guide that languished but could be a place to start.
-  
+
 * Determine who your contributors will be. Good help and input can and should come from more than just official technical writers. Support Engineers, Product Engineering, Marketing and Sales are all places to look for collaborators. You will also likely need sign-off from your Legal department for some stuff.
 * Decide where your style guide will live, how people can contribute to it, and stuff like that. In my experience putting it somewhere like a wiki is a good compromise between having it be easily viewed by anyone who wants to see it and worked on by anyone who wants to work on it.
 
@@ -36,21 +36,21 @@ To help you out if you do have to create a style guide from scratch:
   * Microsoft Writing Style Guide (https://docs.microsoft.com/en-us/style-guide/welcome/) - supersedes the old Microsoft Manual of Style
   * Handbook of Technical Writing (http://www.powells.com/book/-9781250004413)
   * Wired Style Guide (if you can find an old copy)
-  
+
 * Publicly-available, comprehensive company style guides:
 
   * Apple (https://help.apple.com/applestyleguide/)
   * Tech Prose (http://www.techprose.com/assets/techwriting_guidelines.pdf)
   * Rackspace (https://rackerlabs.github.io/docs-rackspace/style-guide/index.html)
   * Google Developer Documentation (https://developers.google.com/style/)
-  
+
 * Ask in the Write the Docs Slack. I feel confident at least a few of us have style guides we're happy and able to share with you.
 
 
 And now, the meat of it (or seitan or something for those who don't want meat):
 -------------------------------------------------------------------------------
 
-I've divided this into two sections, "First pass" and "Style elements". That's because in the real world, we generally don't have time to make our style guide as detailed as we'd like it to be right off the bat. So, first tackle the more important stuff, then after that go for it all! (YMMV as to what's most important, of course.)
+In the real world, we generally don't have time to make our style guide as detailed as we'd like it to be right off the bat. So, first tackle the more important stuff, then after that go for it all!
 
 Always remember accessibility. A very easy example is that "above" and "below" mean nothing if users are using a screen reader because of a visual impairment. Use "previous" and "following". Basically, if it takes that little effort to make something more accessible, there's no good excuse not to do it.
 
@@ -69,7 +69,7 @@ Elements you probably want to make decisions on as early in the process as possi
   * Copyrights
   * EULA
   * Anything else your company requires
-  
+
 * Who is your audience?
 * Doc set architecture
 * Doc directory structure
