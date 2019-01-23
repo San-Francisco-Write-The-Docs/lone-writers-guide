@@ -1,6 +1,6 @@
 # The Lone Writer’s Guide
 
-The Lone Writer's Guide is one of the projects happening at [San Francisco Write The docs.](https://goo.gl/A6EBEn)
+The Lone Writer's Guide is one of the projects happening at [San Francisco Write the Docs.](https://goo.gl/A6EBEn)
 
 * [Introduction](#introduction)
 * [Current Status](#current-status)
