@@ -6,7 +6,7 @@ Style Guides
 
 This page is about creating a style guide. It covers things to think about when creating a style guide and sources for style guides. It is not, however, a style guide. It is not prescriptive. (It also does not discuss tools.)
 
-There is one basic premise: A STYLE GUIDE IS A GOOD THING TO HAVE.
+There is one basic premise: **A style guide is a good thing to have.**
 
 
 Before you begin:
@@ -15,6 +15,7 @@ Before you begin:
 Before you start writing that style guide, keep these ideas in mind:
 
 * Get buy-in from management, other writers, engineers, PMs - anyone who will have to use the style guide - that it's time to make and start using one.
+* Make sure your style guide is aligned with any corporate branding.
 * You might not have to create your own style guide from scratch. Check around at work:
 
   * Your company, if it's big, might have other technical documentation teams that already have one. You might even end up being the "hero" that finds a few of them and starts a global style guide project. (That happened to me once.)
