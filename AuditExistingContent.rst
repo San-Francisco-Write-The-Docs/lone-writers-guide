@@ -18,7 +18,7 @@ Conducting a high-level audit will give you the answers to these questions.
 
 Start by looking at the documentation yourself.  Don’t get wrapped up in the details. Look at the docs from an organizational perspective.  Is the content organized in a logical order? Can you identify any gaps in the content?
 
-Next go to your manager and the Key Stakeholders.  Interview them and ask them about the documentation.  Show them the organization online. Ask if the organization seems logical to them.  Ask them if they see any gaps or missing information.  As them if anyone has complained that there is missing or confusing information.
+Next go to your manager and the Key Stakeholders.  Interview them and ask them about the documentation.  Show them the organization online. Ask if the organization seems logical to them.  Ask them if they see any gaps or missing information.  Ask them if anyone has complained that there is missing or confusing information.
 
 If you can interview 1-2 key customers, ask them the same questions.
 
