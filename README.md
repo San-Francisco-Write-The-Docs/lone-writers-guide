@@ -38,7 +38,7 @@ We’re still working out how we want to organize what we’ve got so far, so th
 * [Inheriting A Mess](InheritingAMess.rst)
 * [Quick Wins](QuickWins.rst)
 * [Resources](Resources.rst)
-* [Static Site Generators](StaticSiteGenerators\(tables\).rst)
+* [Static Site Generators](StaticSiteGenerators.rst)
 * [Technical Product Summary](TechnicalProductSummary.rst)
 * [Testing Docs](TestingDocs.rst)
 * [Topic Patterns](TopicPatterns.rst)
