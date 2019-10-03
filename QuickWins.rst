@@ -12,7 +12,7 @@ It can't hurt to start to understand the politics or culture of the organization
 
 Reaching out to principals in Marketing, Engineering, Support, Operations, etc. will help you establish and reinforce your role. When interviewing these principals, you may hear sentiments ranging from, "Boy am I glad you're here!" to "Who are you again? (And why are you wasting my time?)"
 
-Focusing your efforts, at least at first, on those functions in the organization who appreciate the motivation for filling your role will guide you to a sympathetic audience (who, in turn, can become internal allies)! You may have a broad charter or a narrow one; in either case, a quick win should be focused to those teams who appreciate your presence.
+Focusing your efforts on people who appreciate your role. You may have a broad charter or a narrow one; in either case, a quick win should be focused on teams that appreciate your presence.
 
 * Know your role
 

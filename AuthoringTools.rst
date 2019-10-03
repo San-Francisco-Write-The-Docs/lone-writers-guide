@@ -1,4 +1,3 @@
-<!--  https://docs.google.com/document/d/1ykWZLM_vh6bA2hCNCGHrOk2bTpx0q4R22fSTwqHtdL0/edit# -->
 
 ***************************
 Authoring tools - selecting
@@ -8,7 +7,8 @@ Authoring tools - selecting
 How to swim in the deep water - A lone writer’s guide to survival
 =================================================================
 
-When choosing an authoring tool, think about both your audience and your content creators. For the purposes of this discussion, let's think first about the differences in writing for end users versus software developers.
+
+When choosing an authoring tool, think about your audience and your content creators. For the purposes of this discussion, let's think first about the differences in writing for end users versus software developers.
 
 
 =================================
@@ -16,20 +16,20 @@ Choosing an End User Content Tool
 =================================
 
 Ask yourself these questions about your audience before choosing a tool for delivering end-user content:
-   * Is my audience very visually oriented, or otherwise doesn't feel comfortable with reading long passages of text? If so, you may need to consider using graphics and videos in your documentation.
-   * Does the user content need to interact with the application? For example, would it help if a user could click a button in the documentation and have it open up the window the documentation is describing?  
+   * Is my audience very visually oriented, or otherwise uncomfortable with reading long passages of text? If so, you may need to consider using graphics and videos in your documentation.
+   * Does the user content need to interact with the application? For example, would it help if a user could click a button in the documentation and have it open up the window the documentation is describing?
    * Will users read the documentation offline, or in situations where they may not have access to a computer?
-   * Will users be reading this documentation on a mobile device? If so, which platform? 
-   
+   * Will users be reading this documentation on a mobile device? If so, which platform?
+
 You also need to understand your content creators:
-   * Are they comfortable with version control systems like git? 
+   * Are they comfortable with version control systems like Git?
    * Are they comfortable working in a markup language, or do they require a WYSIWYG (What You See Is What You Get, describes a graphical interface much like MS Word) interface for editing?
    * Are they professional technical writers, software developers, or a variety of people with different job descriptions?
    * Do they have the skills and tools to create video or graphical content?
    * Do they understand how to design and write clear, concise, and helpful content?
    * Is creating content a rewarding experience for them, or a chore?
-   
-Some of the same tools recommended for Software Developer documentation make work for you if your content creator community has a high level of familiarity with technology and is comfortable working in a markup language.
+
+Some of the same tools recommended for Software Developer documentation may work for you if your content creator community has a high level of familiarity with technology and is comfortable working in a markup language.
 
 Non-Technical-Writer Content Tools
 ------------------------------------
@@ -68,12 +68,12 @@ If your content creators are software developers, they may be more likely to kee
    * Markdown
    * reStructuredText
    * doxygen
-   
+
 How you deliver documentation written in a markup language depends on your audience. Ask yourself a few questions:
    * Is my audience internal or external to the company? This will affect whether you have to get external web site hosting for your generated static web pages.
    * Is my audience going to be working with code from GitHub? This may bias you toward using a solution that involves publishing from GitHub, such as ReadTheDocs.
-   * Does my documentation need to be interactive -- for example, do I want to let users try out a JavaScript API in the browser, or see the real-time effects of code samples? 
-   
+   * Does my documentation need to be interactive -- for example, do I want to let users try out a JavaScript API in the browser, or see the real-time effects of code samples?
+
 Publishing Developer Documentation
 ----------------------------------
 
@@ -82,7 +82,7 @@ Markup languages require some mechanism for publishing the content to a web site
    * doxygen (builds static web pages doxygen markup or Markdown markup in the code)
    * MkDocs (builds static web pages from Markdown)
    * ReadTheDocs (builds static web pages from Markdown or reStructuredText from GitHub repos)
-   
+
 API Documentation Generators
 ----------------------------
 
@@ -97,7 +97,8 @@ Several tools exist to help with creating automatic API documentation for a vari
    * pydoctor (Python)
    * doxygen (C++, C, and several other languages)
    * javadoc (Java)
-   * Swagger/swagger-codegen (REST/Javascript -- interactive API exploration)
+   * Godoc (Go)
+   * Swagger/swagger-codegen and RAML (REST/Javascript -- interactive API exploration)
 
 Note that auto-generation tools are not that useful if the developers do not write descriptions for the API in the code. Creating templates for common IDE tools or editors (like emacs) can help encourage the creation of content for each API function.
 
@@ -109,6 +110,3 @@ Related Topics
 ====================================
 
 See also AuthoringToolsChanging.rst.
-
- 
-

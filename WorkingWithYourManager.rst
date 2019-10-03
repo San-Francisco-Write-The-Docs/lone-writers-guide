@@ -1,32 +1,14 @@
-<!-- https://docs.google.com/document/d/1M116-oXpx3Rd_LZuvcjh8gr0RGMhppwrn6MkPZFGyeM/edit#heading=h.m52rdgevmfw1 -->
 
-*************************
-Working with your manager
-*************************
+**************************
+Working with your manager:
+**************************
 
 =================================================================
 How to swim in the deep water - A lone writer’s guide to survival
 =================================================================
 
-Starting notes:
----------------
-
-* Working with your manager (and others) who know nothing about managing docs. Most sole writers report to a product manager. Some report to marketing or support.  But all report to someone who is not (and has never been) a doc team manager.  Important to educate manager about what it takes to write and publish docs, how long things take (processes), what tools are needed (and why), etc.
-
-Hack-a-thon content:
---------------------
-
-* Managing expectations
-* Time estimates
-* Transparency and communication
-** Scope - what is the doc writers responsibility, and what is not
-* Dependencies - make sure your manager understands what information you need and from who - and the impact on your work
-
-=================================================================
-How to establish value added and positive relationships from the start:
-=================================================================
-(Notes from the 5-17 East Bay WTD Hackathon)
-
+How to Establish A Positive Relationship from the Start
+========================================================
 * Ask a lot of questions
 * Have them define what they value in "good writing"
 * Ask someone how they see your role working, including how you will function, who you will talk to, and what you will deliver
@@ -51,12 +33,9 @@ How to establish value added and positive relationships from the start:
 * Have genuine enthusiasm for the work of developers, and your own work as well
 
 
-=================================================================
 How to get quality doc reviews from a non-writing-savvy manager:
 =================================================================
-Frequently, managers who haven't managed a writer before do not know the type of feedback that we need. For example, a manager might lightly copyedit your work, when what you truly needed a technical review, or their thoughts about a new structure.
-
-Some suggestions for getting quality docs reviews:
+Frequently, managers who haven't managed a writer before do not know the type of feedback that we need. For example, a manager might lightly copyedit your work, when what you truly need is a technical review, or their thoughts about a new structure. Here are some suggestions for getting quality docs reviews:
 
 * Create a mini-training on how to review documentation
 * Specifically call out the "type" of review that you're looking for, be it technical, developmental, etc.
