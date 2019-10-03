@@ -47,3 +47,18 @@ Who should test the docs?
 * Writers should test the entire doc set to verify that everything in it is accurate -- even though this is not comprehensive testing. The writer, developers and quality assurance people might know the product well enough that they automatically fill in missing steps or gloss over areas that aren't explained well enough for a customer. For that reason, writers and engineers cannot be the only testers.
 * A new employee who needs to learn the company's products is an ideal tester, if you approach them at the right time. Sales engineers are strongly motivated to understand the product and to give you feedback when it doesn't work. And they might consider it a favor if you make sure they get the latest copy of the software and all the documentation. Newly hired support engineers might also be good prospects, if your company expects them to know the product deeply.
 * Any intelligent person who is outside of the engineering part of the company and willing to test the docs is a good potential tester.
+
+Automated Testing with Linters
+==============================
+
+You can use linters to automatically test for things like prose problems, spelling errors, style issues, malformed html, and broken links.
+
+You can run these tests yourself, or you can run these tests as part of a continuous integration (CI) workflow.
+
+Here are some examples:
+
+* `Vale <https://github.com/errata-ai/vale>`_ is a prose linter that allows you to check against pre-defined rules and create your own rules (for everything from terminology to the passive voice)!
+* `Alex <https://github.com/get-alex/alex>`_ is a linter for catching inconsiderate language. 
+* `HTML Proofer <https://github.com/gjtorikian/html-proofer>`_ can check your rendered HTML for code issues and broken links.
+
+... and many more!
