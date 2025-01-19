@@ -13,9 +13,7 @@ Lone Writers Guide
 
 If you work alone, this guide will provide helpful advice from others who have walked the same road.
 
-Your tools
-***********
-* :doc:`AuthoringTools`
+
 
 People
 ******
