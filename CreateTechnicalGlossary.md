@@ -1,11 +1,7 @@
 
-*****************************
-Creating a Technical Glossary
-*****************************
 
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
+# Creating a Technical Glossary
+
 
 You’re in a new situation:
 * Start working on a glossary right away. You're a new person with new eyes and ears: take advantage of this while it lasts.

@@ -1,12 +1,7 @@
+# Authoring tools - changing
 
 
-**************************
-Authoring tools - changing
-**************************
-
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
+## How to swim in the deep water - A lone writer’s guide to survival
 
 
 Starting notes:

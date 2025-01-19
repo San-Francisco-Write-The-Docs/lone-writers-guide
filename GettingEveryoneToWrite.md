@@ -1,12 +1,4 @@
-
-*************************
-Getting everyone to write
-*************************
-
-
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
+# Getting everyone to write
 
 
 As the lone writer, it is in your best interests (and key to your survival) to get others to help you write the documentation. How? You might get lucky and find someone who will give you all the info that you need.  But more likely you will need to ask multiple people to piece together the complete info necessary for comprehensive documentation.

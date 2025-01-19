@@ -1,11 +1,7 @@
 
-**************************
-Identify your Stakeholders
-**************************
 
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
+# Identify your Stakeholders
+
 
 
 Why this is important:
@@ -31,7 +27,7 @@ What questions do you ask?
 * What do you mean when you say “docs”? (e.g., behind login? Internal versus external? File format? Code snippets? KB?)
 * Include boilerplate elements such as Known issues and pain points.
 
-_____________________________________
+
 What if you do not know where to start?
 
  Create nodes for everyone involved within the company (especially if the company is small)

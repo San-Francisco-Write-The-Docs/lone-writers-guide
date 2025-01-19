@@ -1,11 +1,6 @@
 
-*******************
-Doc team procedures
-*******************
+# Doc team procedures
 
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
 
 As a lone writer, there is no one covering for you when you are out at the dentist or on a vacation. The developers, support engineers, and other product team members should be enabled to develop information when you are there and when you aren't. To keep these contributors going, you should have a set of guidelines that they use to produce, review, and submit that source content. Does this mean there is no need to define the processes that you use to take that raw information and turn it into the published documentation? Even though you know what you do and how you do it, there is still a need to document your writing and publishing processes -- that's right, document the documentation.
 
@@ -13,8 +8,8 @@ Why, you ask, do I need to document my processes when no one is going to do them
 
 But first things first -- put the process and procedures in place so that the contributors (or SMEs, if you prefer) can start providing you with the source content that you absolutely need and then define and refine you own process and procedures for producing and publishing the documentation.
 
-Process for contributors:
-------------------------
+## Process for contributors:
+
 
 Whether you are in the office, working remotely, or out on vacation, you should have some procedures and guidelines in place for the people who create and review the source material for the documentation. This includes the format for the information, including text and graphics, as well as how to submit or post their contributions. If collaboration is part of the process, this process documentation should include how each contributor makes edits or comments to an existing document or file and how the workflow is managed (GitHub issues, Jira issues, or whatever you use). Consider what questions the contributors are likely to ask.
 
@@ -26,8 +21,8 @@ The most important thing is to make sure that all of the likely contributors kno
 
 As your contributors use this guide to follow the outlined processes, you can figure out what works and what doesn't. Tweak and update this information as needed. When a potential contributor comes onboard, what they need to know is readily available and you won't be running yet another tutorial about contributing information or reviewing content.
 
-Process for writers:
---------------------
+## Process for writers:
+
 
 As the lone writer, this is basically just you. But that might not always be the case. If you are at a startup or any other organization that has plans for growth, the day will hopefully come when there is another writer. And maybe later another. And so on. So whatever process and procedures that you put into place, you need to make sure that you address scalability. If you are currently stuck with something that clearly isn't scalable, such as writing a Word document and generating a PDF, make a plan for how to move away from that single-author paradigm. So in this sense, the writing process and procedure documentation will be an evolving artifact and would ideally include plans for how the process and procedures will move forward in that evolution. This will also be an ideal reference when the time comes to submit requests to management for new tools or additional writers.
 
@@ -37,8 +32,7 @@ If you’re far enough along in the process at your company and you’re regular
 
 This does not need to be an overwhelming project that takes you away from your writing duties for a long period of time. Carve out an hour or two a week to make some progress. It won't be long before you have something that is far more comprehensive than you even imagined it would be, and it will be a great source when you are ready to add another writer and you have to produce a job description.
 
-A designated writer proxy:
--------------------------
+## A designated writer proxy:
 
 When you do need to make sure that the assembly line keeps moving along while you are out on vacation, figure out who might act as your proxy in terms of catching all of the documentation issues in the morning meeting and capturing new items in Jira or whatever tracking method you use. This might be the product owner, a developer, or a QA engineer that has been a constructive and thorough reviewer of documentation in the past.
 

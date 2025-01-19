@@ -1,16 +1,13 @@
-<-- https://docs.google.com/document/d/1UUQEpZB9kcQ4zJFQp_Ez33aMvgoCx_nwh5ZBvvFu0ug/edit -->
-
-********************
 Style Guides
-********************
+
 
 This page is about creating a style guide. It covers things to think about when creating a style guide and sources for style guides. It is not, however, a style guide. It is not prescriptive. (It also does not discuss tools.)
 
 There is one basic premise: **A style guide is a good thing to have.**
 
 
-Before you begin:
------------------
+## Before you begin:
+
 
 Before you start writing that style guide, keep these ideas in mind:
 
@@ -26,8 +23,7 @@ Before you start writing that style guide, keep these ideas in mind:
 * Decide where your style guide will live, how people can contribute to it, and stuff like that. In my experience putting it somewhere like a wiki is a good compromise between having it be easily viewed by anyone who wants to see it and worked on by anyone who wants to work on it.
 
 
-Resources:
-----------
+## Resources:
 
 To help you out if you do have to create a style guide from scratch:
 
@@ -48,8 +44,8 @@ To help you out if you do have to create a style guide from scratch:
 * Ask in the Write the Docs Slack. I feel confident at least a few of us have style guides we're happy and able to share with you.
 
 
-And now, the meat of it (or seitan or something for those who don't want meat):
--------------------------------------------------------------------------------
+And now, the meat of it:
+
 
 In the real world, we generally don't have time to make our style guide as detailed as we'd like it to be right off the bat. So, first tackle the more important stuff, then after that go for it all!
 
@@ -57,8 +53,8 @@ Always remember accessibility. A very easy example is that "above" and "below" m
 
 Also remember gender neutrality. It's one thing to say "the user" and "he/she", but that doesn't cover it all. First of all, we now generally recognize that gender isn't binary. Also, it's awkward. You can avoid the whole thing by writing in the plural: "Users...". Or, use the second person and write directly to your users.
 
-First pass
-++++++++++
+## First pass
+
 
 Elements you probably want to make decisions on as early in the process as possible:
 
@@ -77,15 +73,14 @@ Elements you probably want to make decisions on as early in the process as possi
 * Document naming convention
 
 Style Elements
-++++++++++++++
 
 * Verb tense
-* Active v. passive voice (c'mon, pick active!)
+* Active v. passive voice 
 * Tone: conversational? didactic? something in between?
 * Are contractions acceptable?
-* Use of courtesies (Please, thank you, etc. Depending on your audience, they might be expected.)
+* Use of courtesies 
 * Title v. sentence case for headings, captions, titles, table column headings
 * Graphics/screenshot guidelines: output format, callout style, naming convention
 * Links: do they use something like "click here" or show the URL?
-* SEO strategy (for online documentation)
+* SEO strategy 
 * Obviously there are lots more. Please add to this list!

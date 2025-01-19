@@ -1,11 +1,7 @@
 
-************************************
-Identify your SMEs and Stake Holders
-************************************
 
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-==================================================================
+Identify your SMEs and Stake Holders
+
 
 Starting notes:
 ---------------

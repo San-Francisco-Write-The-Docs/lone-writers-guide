@@ -1,14 +1,8 @@
+# Working with your manager:
 
-**************************
-Working with your manager:
-**************************
-
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
 
 How to Establish A Positive Relationship from the Start
-========================================================
+
 * Ask a lot of questions
 * Have them define what they value in "good writing"
 * Ask someone how they see your role working, including how you will function, who you will talk to, and what you will deliver
@@ -34,7 +28,7 @@ How to Establish A Positive Relationship from the Start
 
 
 How to get quality doc reviews from a non-writing-savvy manager:
-=================================================================
+
 Frequently, managers who haven't managed a writer before do not know the type of feedback that we need. For example, a manager might lightly copyedit your work, when what you truly need is a technical review, or their thoughts about a new structure. Here are some suggestions for getting quality docs reviews:
 
 * Create a mini-training on how to review documentation

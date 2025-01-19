@@ -1,14 +1,10 @@
 
-********************
-Create a Style Guide
-********************
 
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
+# Create a Style Guide
 
-Getting Started
-================
+
+
+## Getting Started
 
 when you're ready to start a company style guide, here are some general ideas about how to do it.
 

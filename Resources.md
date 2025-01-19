@@ -1,13 +1,5 @@
 
-*********
-Resources
-*********
-
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-==================================================================
-
-
+# Resources
 
 
 Technical writing resources

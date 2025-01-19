@@ -1,11 +1,6 @@
 
-*****************
-Inheriting a mess
-*****************
+# Inheriting a mess
 
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
 
 
 Suppose you inherited a mess like this:

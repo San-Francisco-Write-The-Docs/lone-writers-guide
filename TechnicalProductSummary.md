@@ -1,11 +1,5 @@
+# Technical product summary
 
-*************************
-Technical product summary
-*************************
-
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
 
 When you're working on creating a product summary for a technical product, your first step is to brainstorm your plan.
 

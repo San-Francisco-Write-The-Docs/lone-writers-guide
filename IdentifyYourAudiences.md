@@ -1,13 +1,10 @@
-=======================
-Identify Your Audiences
-=======================
 
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
+# Identify Your Audiences
 
-Six Levels of Experience:
-*************************
+
+
+## Six Levels of Experience:
+
 
 =================   ======================================   ==============================
 Skill Level         Experience                               Needs

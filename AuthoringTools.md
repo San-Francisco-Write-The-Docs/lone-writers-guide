@@ -1,19 +1,14 @@
 
-***************************
-Authoring tools - selecting
-***************************
+# Authoring tools - selecting
 
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
 
 
 When choosing an authoring tool, think about your audience and your content creators. For the purposes of this discussion, let's think first about the differences in writing for end users versus software developers.
 
 
-=================================
-Choosing an End User Content Tool
-=================================
+
+## Choosing an End User Content Tool
+
 
 Ask yourself these questions about your audience before choosing a tool for delivering end-user content:
    * Is my audience very visually oriented, or otherwise uncomfortable with reading long passages of text? If so, you may need to consider using graphics and videos in your documentation.
@@ -31,15 +26,15 @@ You also need to understand your content creators:
 
 Some of the same tools recommended for Software Developer documentation may work for you if your content creator community has a high level of familiarity with technology and is comfortable working in a markup language.
 
-Non-Technical-Writer Content Tools
-------------------------------------
+### Non-Technical-Writer Content Tools
+
 
 If your content creator community is made up of non-technical writers, and is more comfortable in a word-processing (WYSIWYG) type of editing environment, you may find these tools useful:
    * Atlassian Confluence (a wiki with a word-processor-style editing interface)
    * Google Docs (an online word-processor with simple editing tools and commenting features)
 
-Technical Writer Content Tools
-------------------------------
+### Technical Writer Content Tools
+
 
 If your content creators are mainly technical writers, and need the power of more complex authoring tools, there are many options. A few of these are:
    * Madcap Flare and other online help authoring tools (provides level of application integration)
@@ -49,8 +44,8 @@ If your content creators are mainly technical writers, and need the power of mor
    * Atlassian Confluence (wiki can be made to look like a traditional web site, many plugins to support authoring needs)
    * MediaWiki (great user community to support customization, wiki-style authoring)
 
-Visual Documentation Tools
---------------------------
+### Visual Documentation Tools
+
 
 If your community requires visual documentation, look into video and graphics authoring tools:
    * Flowcharts (OmniGraffle, Gliffy, Visio)
@@ -60,9 +55,8 @@ If your community requires visual documentation, look into video and graphics au
 No matter who your content creators are, it will help to have a way to create templates for specific kinds of documentation so that they have a starting place that conforms to your style guide.
 
 
-==========================================
-Choosing a Software Developer Content Tool
-==========================================
+## Choosing a Software Developer Content Tool
+
 
 If your content creators are software developers, they may be more likely to keep the documentation up-to-date if the documentation lives with the code. This usually involves writing in a markup language, such as:
    * Markdown
@@ -74,8 +68,8 @@ How you deliver documentation written in a markup language depends on your audie
    * Is my audience going to be working with code from GitHub? This may bias you toward using a solution that involves publishing from GitHub, such as ReadTheDocs.
    * Does my documentation need to be interactive -- for example, do I want to let users try out a JavaScript API in the browser, or see the real-time effects of code samples?
 
-Publishing Developer Documentation
-----------------------------------
+### Publishing Developer Documentation
+
 
 Markup languages require some mechanism for publishing the content to a web site -- otherwise, the content can only be read by those who visit the source code repository. Some popular opensource publishing tools include:
    * Sphinx (builds static web pages from Markdown or reStructuredText)
@@ -83,8 +77,8 @@ Markup languages require some mechanism for publishing the content to a web site
    * MkDocs (builds static web pages from Markdown)
    * ReadTheDocs (builds static web pages from Markdown or reStructuredText from GitHub repos)
 
-API Documentation Generators
-----------------------------
+### API Documentation Generators
+
 
 API documentation has very specific needs that may require more interactivity. If you're documenting an API, ask yourself:
    * Is this a JavaScript (REST) API?
@@ -105,8 +99,3 @@ Note that auto-generation tools are not that useful if the developers do not wri
 API documentation also does not replace the need for examples and tutorials.
 
 
-====================================
-Related Topics
-====================================
-
-See also AuthoringToolsChanging.rst.

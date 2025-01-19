@@ -1,11 +1,6 @@
+# Setting expectations
 
-********************
-Setting expectations
-********************
 
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
 
 As the lone technical writer at your company, first determine the docs that you are tasked with writing.
 Sometimes, the job specification and description duties do not align with what you are tasked to write at your company.

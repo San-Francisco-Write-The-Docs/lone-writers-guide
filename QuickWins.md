@@ -1,10 +1,5 @@
-**********
-Quick wins
-**********
+# Quick wins
 
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
 
 * Play politics (a little bit)
 

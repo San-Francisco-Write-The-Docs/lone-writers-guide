@@ -1,12 +1,7 @@
+# Audit existing content
 
 
-**********************
-Audit existing content
-**********************
-
-=================================================================
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
+## How to swim in the deep water - A lone writer’s guide to survival
 
 When you inherit docs from a writer who has left the company, it's important to know what you have to work with.  Consider:
 

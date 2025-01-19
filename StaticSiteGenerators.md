@@ -1,24 +1,11 @@
 
-**********************
-Audit existing content
-**********************
+# Static site generators
 
-How to swim in the deep water - A lone writer’s guide to survival
-=================================================================
 
-Starting notes:
----------------
-
-* What are static site generators?
-* From the June WTD Newsletter:
-
-WHAT IS A STATIC SITE GENERATOR?
-================================
 
 A static site generator (SSG) is a tool that can convert a collection of markup files into web pages. Most SSGs include programs that host the resulting web site, but because the output doesn't depend on a specific hosting server, you have many options for deploying the content. Popular static site generators include Sphinx, Jekyll, and Asciidoctor.
 
 Advantages of SSGs:
--------------------
 
 * You can leverage developer tools like Github.
 * You author content for SSGs in markup languages, which are non-proprietary, straightforward to read and learn, and easier to use than raw HTML. rST, Markdown, and AsciiDoc are examples of markup languages.
@@ -29,14 +16,12 @@ Advantages of SSGs:
 One important advantage is that you can keep the documentation close to the code, sometimes even in the same repository as the code, and you can use the same workflow as for code. This encourages developers to keep documentation synchronized with the code.
 
 You should use a static site generator if:
-------------------------------------------
 
 * You need to collaborate with developers.
 * You need something that's easy to set up and to maintain.
 * Your budget for infrastructure and tooling is low.
 
 Disadvantages:
---------------
 
 * SSGs have no content management system to manage things like:
 
@@ -46,49 +31,21 @@ Disadvantages:
 * SSGs don't provide an editing tool or many of the editing features of other documentation authoring tools.
 
 WHICH ONE SHOULD I USE?
-=======================
 
 You may want to choose a static site generator based on what markup language you work in and what programming language you or your colleagues have experience in. For example, you can write in rST to publish with Sphinx, which is written in Python. Or, you can write in Markdown to publish in Jekyll, which is written in Ruby.
 
-TABLE OF FEATURES
-=================
 
-+----------------+-----------------------+---------+------------------------+-----------------+
-| Tool           | Programming Languages | Markup  | Outputs                | Notes           |
-+================+=======================+=========+========================+=================+
-| Sphinx         | Python                | rST     | HTML, LaTeX, PDF, epub |                 |
-+----------------+-----------------------+---------+------------------------+-----------------+
-| Jekyll         |                       |         |                        |                 |
-+----------------+-----------------------+---------+------------------------+-----------------+
-| AsciiDoctor    |                       |         |                        |                 |
-+----------------+-----------------------+---------+------------------------+-----------------+
-| Mkdocs         |                       |         |                        |                 |
-+----------------+-----------------------+---------+------------------------+-----------------+
-| Hexo.io        |                       |         |                        |                 |
-+----------------+-----------------------+---------+------------------------+-----------------+
+## Popular tools
 
-POPULAR TOOLS
-=============
 
-Sphinx
-------
+* Sphinx
+* Jekyll
+* Hugo
+* AsciiDoctor
+* Mkdocs
 
-Jekyll
-------
+## Getting a Grip on Static Site Generators
 
-AsciiDoctor
------------
-
-Mkdocs
-------
-
-Mkdocs is a generator that does the same thing as readthedocs but with markdown.
-
-Hexo.io
--------
-
-Getting a Grip on Static Site Generators
-========================================
 
 In general, Sphinx parses rST, and Jekyll parses Markdown.
 
