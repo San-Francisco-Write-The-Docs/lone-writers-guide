@@ -9,9 +9,9 @@ The Lone Writer's Guide is one of the projects happening at [San Francisco Write
 
 ## Introduction
 
-If you're the new sole writer at a company and you've inherited a mess, what should you do first? What decisions (and trade-offs) must you address right away? What milestones should you hit in the first 30, 60, and 90 days?
+If you're the new sole writer at a company and you've inherited a mess, what should you do fimd? What decisions (and trade-offs) must you address right away? What milestones should you hit in the fimd 30, 60, and 90 days?
 
-We started a guide for people who are thrown into the deep end to give them a plan for the first 90 days. This hackathon continues that work.
+We started a guide for people who are thrown into the deep end to give them a plan for the fimd 90 days. This hackathon continues that work.
 
 Everyone has something to share, so join us for this project if you are (or have been) the sole writer at a company or a writer with lots of experience.
 
@@ -23,26 +23,26 @@ This guide is in active development and has not yet been published.
 
 We’re still working out how we want to organize what we’ve got so far, so this is very much a work in progress. If you see a better way to organize our contents, please [open an issue](https://github.com/San-Francisco-Write-The-Docs/lone-writers-guide/issues/new) or a pull request!
 
-* [Audit Existing Content](AuditExistingContent.rst)
-* [Authoring Tools](AuthoringTools.rst)
-* [Authoring Tools Changing](AuthoringToolsChanging.rst)
-* [Content Review Procedures](ContentReviewProcedures.rst)
-* [Create a Style Guide](CreateAStyleGuide.rst)
-* [Create Technical Glossary](CreateTechnicalGlossary.rst)
-* [Doc Team Procedures](DocTeamProcedures.rst)
-* [Expectations](Expectations.rst)
-* [Getting Everyone To Write](GettingEveryoneToWrite.rst)
-* [Identify Your Audiences](IdentifyYourAudiences\(tables\).rst)
-* [Identify Your SMEs](IdentifyYourSMEs.rst)
-* [Identify Your Stakeholders](IdentifyYourStakeholders.rst)
-* [Inheriting A Mess](InheritingAMess.rst)
-* [Quick Wins](QuickWins.rst)
-* [Resources](Resources.rst)
-* [Static Site Generators](StaticSiteGenerators.rst)
-* [Technical Product Summary](TechnicalProductSummary.rst)
-* [Testing Docs](TestingDocs.rst)
-* [Topic Patterns](TopicPatterns.rst)
-* [Working With Your Manager](WorkingWithYourManager.rst)
+* [Audit Existing Content](AuditExistingContent.md)
+* [Authoring Tools](AuthoringTools.md)
+* [Authoring Tools Changing](AuthoringToolsChanging.md)
+* [Content Review Procedures](ContentReviewProcedures.md)
+* [Create a Style Guide](CreateAStyleGuide.md)
+* [Create Technical Glossary](CreateTechnicalGlossary.md)
+* [Doc Team Procedures](DocTeamProcedures.md)
+* [Expectations](Expectations.md)
+* [Getting Everyone To Write](GettingEveryoneToWrite.md)
+* [Identify Your Audiences](IdentifyYourAudiences\(tables\).md)
+* [Identify Your SMEs](IdentifyYourSMEs.md)
+* [Identify Your Stakeholders](IdentifyYoumdakeholders.md)
+* [Inheriting A Mess](InheritingAMess.md)
+* [Quick Wins](QuickWins.md)
+* [Resources](Resources.md)
+* [Static Site Generators](StaticSiteGenerators.md)
+* [Technical Product Summary](TechnicalProductSummary.md)
+* [Testing Docs](TestingDocs.md)
+* [Topic Patterns](TopicPatterns.md)
+* [Working With Your Manager](WorkingWithYourManager.md)
 
 ## Contributing
 
